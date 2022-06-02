@@ -1,0 +1,3 @@
+if game.PlaceId == 9681073174 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/ShadowHub/main/Main"))()
+end
